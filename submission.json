@@ -1,0 +1,8 @@
+{
+  "prompt": "A highly detailed 19th-century scientific engraving of a tailor fitting garments on human figures, rendered in precise black ink linework with dense cross-hatching and parallel hatching to define volume, no soft shading, no gradients. Three figures stand in rigid, formal poses: one wearing an extremely tight, strained suit, one wearing an excessively loose garment, and a central tailor carefully measuring proportions with a tape measure. clean white or lightly aged paper background, minimal composition, highly structured layout, anatomically accurate, mechanical precision, classical engraving style from the 1800s; no color wash, no sepia filter, no texture overlay, no expressive faces, no modern elements, no blur, no soft shading",
+  "model": "Google Gemini (Nano Banana)",
+  "concept": "overfitting",
+  "tradition_name": "19th-century scientific engraving",
+  "tradition_period": "1800s",
+  "tradition_approach": "Dense cross-hatching, rigid composition, precise ink linework, and minimal shading to replicate structural engraving techniques rather than surface-level vintage styling."
+}
